@@ -1,0 +1,6 @@
+pandas
+jupyter
+xlrd
+seaborn
+scikit-learn
+openpyxl
