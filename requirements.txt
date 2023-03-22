@@ -4,3 +4,5 @@ xlrd
 seaborn
 scikit-learn
 openpyxl
+tensorflow
+tensorflow-hub
